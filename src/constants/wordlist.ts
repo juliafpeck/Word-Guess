@@ -13,7 +13,7 @@ export const WORDS = [
   'andar',
   'apoyo',
   'araba',
-  'banir'
+  'banir',
 ]
 
 if (CONFIG.normalization) {
